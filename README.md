@@ -52,4 +52,4 @@ https://drive.google.com/file/d/1wqnqhPv92mHwkEI4nMh-sI5aDgh-usr7/view?usp=share
 
 # Contact
 
-If you have any questions, please contact rui_m@stu.pku.edu.cn or post them in the _Issue_.
+If you have any questions, please contact rui_m@stu.pku.edu.cn or post them in the https://github.com/rmpku/CIN/issues.
