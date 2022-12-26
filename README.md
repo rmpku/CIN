@@ -1,6 +1,6 @@
 # Paper
 
-It will be published on arxiv.
+It will be published on arxiv.  
 https://dl.acm.org/doi/abs/10.1145/3503161.3547950
 
 # Introduction
@@ -11,9 +11,11 @@ https://dl.acm.org/doi/abs/10.1145/3503161.3547950
 
 # Dataset Preparation
 
-**COCO2017:** _Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." European conference on computer vision. Springer, Cham, 2014._
+**COCO2017:**  
+_Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." European conference on computer vision. Springer, Cham, 2014._
 
-**DIV2K:** _Agustsson, Eirikur, and Radu Timofte. "Ntire 2017 challenge on single image super-resolution: Dataset and study." Proceedings of the IEEE conference on computer vision and pattern recognition workshops. 2017._
+**DIV2K:**  
+_Agustsson, Eirikur, and Radu Timofte. "Ntire 2017 challenge on single image super-resolution: Dataset and study." Proceedings of the IEEE conference on computer vision and pattern recognition workshops. 2017._
 
 # Environment
 
