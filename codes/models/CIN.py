@@ -5,7 +5,7 @@ from models.Noise_pool import Noise_pool
 from models.FSM import FSM
 from models.DEM import DEM
 from models.modules.InvDownscaling import InvDownscaling
-from models.NIAM.NIAM import NIAM
+from models.NIAM import NIAM
 from models.NSM_module import NSM
 
 

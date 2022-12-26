@@ -76,9 +76,9 @@ loss:
 noise:
   #
   StrengthFactor:
-    S: 1.3
+    S: 1
   #
-  option:   'Crop'
+  option:   'Identity'
   #
   Identity:
   #
@@ -154,10 +154,9 @@ path:
   logs_folder:        '.../watermarking_CIN/experiments/experiment_'
   folder_temp:
 
-  ####coco2017
+  # coco2017
   train_folder:       '.../coco2017/train/train_class'
   test_folder:        '.../coco2017/val/val_class'
-
   #
   resume_state_1pth:  '.../pth/cinNet&nsmNet.pth'
 

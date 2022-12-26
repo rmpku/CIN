@@ -43,7 +43,9 @@ importlib-metadata=5.1.0_
 
 # Pretrained model - "combined noises"
 
-For test {'JpegTest', 'Crop', 'Cropout', 'Resize', 'GaussianBlur', 'Salt_Pepper', 'GaussianNoise', 'Dropout'}  
+Training with Noise pool {'Identity', 'JpegTest', 'Crop', 'Cropout', 'Resize', 'GaussianBlur', 'Salt*Pepper', 'GaussianNoise', 'Dropout', 'Brightness', 'Contrast', 'Saturation', 'Hue'}.  
+When testing, you only need to modify the noise-option in */codes/options/opt.yml/noise/option.\_  
+The pre-trained model can be downloaded from the following Google Cloud link:  
 https://drive.google.com/file/d/1wqnqhPv92mHwkEI4nMh-sI5aDgh-usr7/view?usp=share_link
 
 # Contact
