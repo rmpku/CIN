@@ -1,9 +1,10 @@
-
 # Paper
+
 It will be published on arxiv.
 https://dl.acm.org/doi/abs/10.1145/3503161.3547950
 
 # Citation
+
 If you find this work useful, please cite our paper:
 
 - @inproceedings{ma2022towards,
@@ -16,19 +17,20 @@ If you find this work useful, please cite our paper:
 -
 
 # Introduction
+
 ![Framework](https://github.com/rmpku/CIN/blob/main/images/1.jpg)
 ![Visualization](https://github.com/rmpku/CIN/blob/main/images/2.jpg)
 ![invertibleNet](https://github.com/rmpku/CIN/blob/main/images/6.jpg)
 
-
-
 # Dataset Preparation
+
 **COCO2017:** _Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." European conference on computer vision. Springer, Cham, 2014._
 
 **DIV2K:** _Agustsson, Eirikur, and Radu Timofte. "Ntire 2017 challenge on single image super-resolution: Dataset and study." Proceedings of the IEEE conference on computer vision and pattern recognition workshops. 2017._
 
 # Environment
-*nvidia=3080  
+
+_nvidia=3080  
 cuda=11.1  
 python=3.8.3  
 torch=1.13.0  
@@ -37,10 +39,13 @@ opencv-python=4.6.0.66
 kornia=0.6.8  
 colormath=3.0.0  
 pyyaml=6.0  
-importlib-metadata=5.1.0*
+importlib-metadata=5.1.0_
 
+# Pretrained model - "combined noises"
 
+For test {'JpegTest', 'Crop', 'Cropout', 'Resize', 'GaussianBlur', 'Salt_Pepper', 'GaussianNoise', 'Dropout'}  
+https://drive.google.com/file/d/1wqnqhPv92mHwkEI4nMh-sI5aDgh-usr7/view?usp=share_link
 
 # Contact
 
-If you have any questions, please contact rui_m@stu.pku.edu.cn or post them in the *Issue*.
+If you have any questions, please contact rui_m@stu.pku.edu.cn or post them in the _Issue_.

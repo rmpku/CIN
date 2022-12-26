@@ -159,7 +159,7 @@ path:
   test_folder:        '.../coco2017/val/val_class'
 
   #
-  resume_state_1pth:  '.../cinNet&nsmNet.pth'
+  resume_state_1pth:  '.../pth/cinNet&nsmNet.pth'
 
 
 
