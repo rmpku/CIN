@@ -19,7 +19,7 @@ def main():
     name = str("CIN")
 
     # Read config
-    yml_path = '/home/mr/projects_mr/Watermark_InvertibleNet/watermarking_mr/inv_watermarking/GitHub_upload_MM2022/codes/options/opt.yml'
+    yml_path = '.../codes/options/opt.yml'
     option_yml = parse_yml(yml_path)
 
     # convert to NoneDict, which returns None for missing keys
