@@ -17,6 +17,10 @@ If you find this work useful, please cite our paper:
 
 # Introduction
 ![Framework](https://github.com/rmpku/CIN/blob/master/images/1.jpg)
+![invertibleNet](https://github.com/rmpku/CIN/blob/master/images/5.jpg)
+![Visualization](https://github.com/rmpku/CIN/blob/master/images/2.jpg)
+![table](https://github.com/rmpku/CIN/blob/master/images/3.jpg)
+![table](https://github.com/rmpku/CIN/blob/master/images/4.jpg)
 
 
 # Dataset Preparation
