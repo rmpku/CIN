@@ -1,7 +1,6 @@
 # Environment
 
-*
-nvidia=3080
+*nvidia=3080
 cuda=11.1
 python=3.8.3
 torch=1.13.0
