@@ -1,6 +1,6 @@
 # Environment
 
-*nvidia=3080
+*nvidia=3080*
 cuda=11.1
 python=3.8.3
 torch=1.13.0
@@ -9,8 +9,7 @@ opencv-python=4.6.0.66
 kornia=0.6.8
 colormath=3.0.0
 pyyaml=6.0
-importlib-metadata=5.1.0
-*
+*importlib-metadata=5.1.0*
 
 # Paper
 
