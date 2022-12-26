@@ -1,6 +1,6 @@
 # Environment
 
-*
+**
 nvidia=3080
 cuda=11.1
 
@@ -12,7 +12,7 @@ kornia=0.6.8
 colormath=3.0.0
 pyyaml=6.0
 importlib-metadata=5.1.0
-*
+**
 
 # Paper
 
