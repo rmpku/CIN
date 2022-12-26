@@ -1,7 +1,8 @@
 # Environment
 
-- nvidia=3080
-  cuda=11.1
+*
+nvidia=3080
+cuda=11.1
 
 python=3.8.3
 torch=1.13.0
@@ -11,8 +12,7 @@ kornia=0.6.8
 colormath=3.0.0
 pyyaml=6.0
 importlib-metadata=5.1.0
-
--
+*
 
 # Paper
 
@@ -42,4 +42,4 @@ If you find this work useful, please cite our paper:
 
 # Contact
 
-If you have any questions, please contact rui_m@stu.pku.edu.cn or post them in the issue.
+If you have any questions, please contact rui_m@stu.pku.edu.cn or post them in the *Issue*.
