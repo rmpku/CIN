@@ -18,7 +18,7 @@ If you find this work useful, please cite our paper:
 # Introduction
 ![Framework](https://github.com/rmpku/CIN/blob/master/images/1.jpg)
 ![Visualization](https://github.com/rmpku/CIN/blob/master/images/2.jpg)
-![invertibleNet](https://github.com/rmpku/CIN/blob/master/images/6.png)
+![invertibleNet](https://github.com/rmpku/CIN/blob/master/images/6.jpg)
 
 
 
