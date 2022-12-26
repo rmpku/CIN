@@ -16,7 +16,7 @@ If you find this work useful, please cite our paper:
 -
 
 # Introduction
-![Framework](https://github.com/rmpku/CIN/tree/master/images/1.jpg)
+![Framework](https://github.com/rmpku/CIN/blob/master/images/1.jpg)
 
 
 # Dataset Preparation
