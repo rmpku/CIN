@@ -16,6 +16,8 @@ If you find this work useful, please cite our paper:
 -
 
 # Introduction
+![Framework](https://github.com/rmpku/CIN/tree/master/images/1.jpg)
+
 
 # Dataset Preparation
 **COCO2017:** _Lin, Tsung-Yi, et al. "Microsoft coco: Common objects in context." European conference on computer vision. Springer, Cham, 2014._
