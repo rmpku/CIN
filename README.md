@@ -45,7 +45,8 @@ importlib-metadata=5.1.0_
 
 **Training with Noise pool:**  
 _{'Identity', 'JpegTest', 'Crop', 'Cropout', 'Resize', 'GaussianBlur', 'Salt\*Pepper', 'GaussianNoise', 'Dropout', 'Brightness', Contrast', 'Saturation', 'Hue'}_  
-When testing, you only need to modify the noise-option in _/codes/options/opt.yml/noise/option_  
+**When testing:**  
+you only need to modify the noise-option in _/codes/options/opt.yml/noise/option_  
 **Google Cloud link:**  
 https://drive.google.com/file/d/1wqnqhPv92mHwkEI4nMh-sI5aDgh-usr7/view?usp=share_link
 
