@@ -3,19 +3,6 @@
 It will be published on arxiv.
 https://dl.acm.org/doi/abs/10.1145/3503161.3547950
 
-# Citation
-
-If you find this work useful, please cite our paper:
-
-- @inproceedings{ma2022towards,
-  title={Towards Blind Watermarking: Combining Invertible and Non-invertible Mechanisms},
-  author={Ma, Rui and Guo, Mengxi and Hou, Yi and Yang, Fan and Li, Yuan and Jia, Huizhu and Xie, Xiaodong},
-  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
-  pages={1532--1542},
-  year={2022}
-  }
--
-
 # Introduction
 
 ![Framework](https://github.com/rmpku/CIN/blob/main/images/1.jpg)
@@ -53,3 +40,16 @@ https://drive.google.com/file/d/1wqnqhPv92mHwkEI4nMh-sI5aDgh-usr7/view?usp=share
 # Contact
 
 If you have any questions, please contact rui_m@stu.pku.edu.cn or post them in the https://github.com/rmpku/CIN/issues.
+
+# Citation
+
+If you find this work useful, please cite our paper:
+
+- @inproceedings{ma2022towards,
+  title={Towards Blind Watermarking: Combining Invertible and Non-invertible Mechanisms},
+  author={Ma, Rui and Guo, Mengxi and Hou, Yi and Yang, Fan and Li, Yuan and Jia, Huizhu and Xie, Xiaodong},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={1532--1542},
+  year={2022}
+  }
+-
