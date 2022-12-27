@@ -1,6 +1,8 @@
 # Paper
 
-It will be published on arxiv.  
+Available on arXiv:  
+https://arxiv.org/abs/2212.12678  
+or ACM DL:  
 https://dl.acm.org/doi/abs/10.1145/3503161.3547950
 
 # Introduction
@@ -39,10 +41,6 @@ you only need to modify the noise-option in _/codes/options/opt.yml/noise/option
 **Google Cloud link:**  
 https://drive.google.com/file/d/1wqnqhPv92mHwkEI4nMh-sI5aDgh-usr7/view?usp=share_link
 
-# Contact
-
-If you have any questions, please contact rui_m@stu.pku.edu.cn or post them in the https://github.com/rmpku/CIN/issues.
-
 # Citation
 
 If you find this work useful, please cite our paper:
@@ -55,3 +53,11 @@ If you find this work useful, please cite our paper:
   year={2022}
   }
 -
+
+# ACKNOWLEDGMENTS
+
+This work was supported by National Key R&D Program of China 2021ZD0109802 and National Science Foundation of China 61971047.
+
+# Contact
+
+If you have any questions, please contact rui_m@stu.pku.edu.cn or post them in the https://github.com/rmpku/CIN/issues.
