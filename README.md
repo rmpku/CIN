@@ -2,7 +2,8 @@
 
 Available on arXiv:  
 https://arxiv.org/abs/2212.12678  
-or ACM DL:  
+or 
+ACM DL (The supplements are at the end of the PDF file, which contains the description of the CIN, training details, and noise setting):  
 https://dl.acm.org/doi/abs/10.1145/3503161.3547950
 
 # Introduction
